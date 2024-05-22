@@ -11,7 +11,7 @@ Some of the models employed during this exercise include Logistic Regression, De
 
 Generally, the Gradient Boosting classifier has the best performance and seems a better choice among all models because of the high metrics for both training and testing. It shows a good generalizing ability, robustness and reliability. The other model that shows good performance is the SVC.
 
-Testing Metrics for Tuned Model:
+Model Metrics:
 Recall Score:0.7908496732026143
 Precision Score:0.852112676056338
 Accuracy Score:0.947
