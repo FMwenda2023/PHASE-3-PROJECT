@@ -30,8 +30,10 @@ Collection of more data to reduce the overfitting by enabling the model to perfo
 
 Investigate and understand the ability of customer care staff to handle customer complaints. This will enable the business to establish its contribution to customer churn and be able to mitigate the same through education and training of staff.
 
-Include more data from competitors to help the business improve on internal processes and marketing strategies.
+Include more data from competitors to help the business improve internal processes and marketing strategies.
 
 Study on competitors' charge rate, customer incentives, products and services offered to enable the business to get a competitive edge.
 
 Investigate signals and ability to communicate effectively in areas where there is high customer churn
+
+This was created by Faith Kagwiria Mwenda
