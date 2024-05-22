@@ -9,7 +9,17 @@ Customer churn remains a challenge for most businesses in different sectors that
 Modelling
 Some of the models employed during this exercise include Logistic Regression, Decision Tree Classifier, Gradient Boosting Classifier, Gaussian NB, and Support Vector Classifier.
 
-Generally, the Gradient Boosting classifier has the best performance and seems a better choice among all models because high metrics for both training and testing. It shows a good generalizing ability, robustness and reliability. The other model that shows good performance is the SVC.
+Generally, the Gradient Boosting classifier has the best performance and seems a better choice among all models because of the high metrics for both training and testing. It shows a good generalizing ability, robustness and reliability. The other model that shows good performance is the SVC.
+
+Testing Metrics for Tuned Model:
+Recall Score:0.7908496732026143
+Precision Score:0.852112676056338
+Accuracy Score:0.947
+F1 Score:0.8203389830508475
+ROC AUC Score:0.883028142386431
+
+![image](https://github.com/FMwenda2023/PHASE-3-PROJECT/assets/151983283/b83c4ada-6e6f-4b0c-aac1-3f1f779d3f07)
+
 
 Model Performance: From the ROC Curve, we can conclusively say that the model has a strong distinguishing power between positive and negative classes. The model performs very well on the training data; it correctly identifies all instances and correctly predicts all instances. However, on the testing data, the model metrics are still strong but lower than those of the training data.
 
